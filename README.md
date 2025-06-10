@@ -124,3 +124,4 @@ Navigate to `http://localhost:9090/docs` for interactive API documentation.
 ## License
 
 This project is licensed under the MIT License.
+![image alt](https://github.com/Ayush-191203/api-task/blob/10ea9496011f2955cc1e76773cba90c27e6a781c/local%20host%20api%20.jpg)
